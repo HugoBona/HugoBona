@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do HugoBona 😁
+## Bem-vindo(a) ao perfil do HugoBona
 
  <div>
    <a href="https://github.com/HugoBona">
